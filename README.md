@@ -1,6 +1,6 @@
 # learning-git
 
-This is..
+This is a test repo.
 
 ## Installation
 
